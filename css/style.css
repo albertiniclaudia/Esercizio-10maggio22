@@ -1,0 +1,30 @@
+
+#risposte {
+    background-color: #68c6a7;
+    border-radius: 30px;
+    width: 30rem;
+}
+#risposte h1{
+    text-align: center;
+}
+li {
+    list-style: none;
+    font-weight: bold;
+}
+
+#tabelle {
+    background-color:#68c6a7;
+    border-radius: 30px;
+    text-align: center;
+}
+
+table {
+    border: 2px solid black;
+    width: 10rem;
+    height: 10rem;
+}
+
+td, th {
+    border: 1px solid black;
+    text-align: center;
+}
